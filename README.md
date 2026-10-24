@@ -2,24 +2,13 @@
 
 > **Read-only archive of released versions of ffans/lang-simplified-chinese.** Not for installation: use [Packagist](https://packagist.org/packages/ffans/lang-simplified-chinese) or the [upstream repository](https://github.com/flarum-lang/chinese-simplified).
 
-**109** versions archived · Latest: [`2.0.1`](https://github.com/flarchive/flarum-lang-chinese-simplified/tree/archive/v2.0.1) · License: `MIT` · Flarum: `^2.0`
+**0** versions archived · Latest: [`2.0.1`](https://github.com/flarchive/flarum-lang-chinese-simplified/tree/archive/v2.0.1) · License: `MIT` · Flarum: `^2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| `1.6.1` | 2026-10-08 | `^1.0.0` | [Browse](https://github.com/flarchive/flarum-lang-chinese-simplified/tree/archive/v1.6.1) |
-| `2.0.0` | 2026-10-08 | `^2.0` | [Browse](https://github.com/flarchive/flarum-lang-chinese-simplified/tree/archive/v2.0.0) |
-| `v0.1.0` | 2020-02-03 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/flarum-lang-chinese-simplified/tree/archive/v0.1.0) |
-| `v0.1.0-beta.15` | 2020-12-23 | `>=0.1.0-beta.14 <0.1.0-beta.16` | [Browse](https://github.com/flarchive/flarum-lang-chinese-simplified/tree/archive/v0.1.0-beta.15) |
-| `v0.1.0-beta.15.1` | 2021-01-24 | `>=0.1.0-beta.14 <0.1.0-beta.16` | [Browse](https://github.com/flarchive/flarum-lang-chinese-simplified/tree/archive/v0.1.0-beta.15.1) |
-| `v0.1.0-beta.15.2` | 2021-03-01 | `>=0.1.0-beta.14 <0.1.0-beta.16` | [Browse](https://github.com/flarchive/flarum-lang-chinese-simplified/tree/archive/v0.1.0-beta.15.2) |
-| `v0.1.0-beta.16` | 2021-03-16 | `>=0.1.0-beta.14 <0.1.0-beta.17` | [Browse](https://github.com/flarchive/flarum-lang-chinese-simplified/tree/archive/v0.1.0-beta.16) |
-| `v0.1.0-beta.16.1` | 2021-03-22 | `>=0.1.0-beta.14 <0.1.0-beta.17` | [Browse](https://github.com/flarchive/flarum-lang-chinese-simplified/tree/archive/v0.1.0-beta.16.1) |
-| `v0.1.0-beta.16.2` | 2021-04-24 | `>=0.1.0-beta.14 <0.1.0-beta.17` | [Browse](https://github.com/flarchive/flarum-lang-chinese-simplified/tree/archive/v0.1.0-beta.16.2) |
-| `v0.1.1` | 2020-02-03 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/flarum-lang-chinese-simplified/tree/archive/v0.1.1) |
-
-[View all 109 versions](https://github.com/flarchive/flarum-lang-chinese-simplified/tags)
+| — | — | — | — |
 
 Catalog entry: [packages/flarum-lang-chinese-simplified.json](https://github.com/flarchive/archive-index/blob/main/packages/flarum-lang-chinese-simplified.json)
 
